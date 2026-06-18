@@ -12,3 +12,4 @@ bot:
   automerge: true
 provider:
   osx_arm64: default
+test: native_and_emulated
